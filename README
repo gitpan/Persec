@@ -1,0 +1,4 @@
+Writting grammars in perl, Inspired by
+
+* http://www.haskell.org/haskellwiki/Parsec
+* rules from http://perlcabal.org/syn/S05.html#Grammars
